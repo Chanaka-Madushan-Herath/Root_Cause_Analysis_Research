@@ -1,0 +1,3 @@
+#specify the foldes and files you need to ignore
+**/.git
+Dockerfile
